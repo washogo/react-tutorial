@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-dev7
+dev7 -> dev6
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
